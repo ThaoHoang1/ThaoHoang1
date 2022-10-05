@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ThaoHoang1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...Canva
-- 💞️ I’m looking to collaborate on .Nha Trang University..
+- 👀 I’m interested in .Canva..
+- 🌱 I’m currently learning Nha Trang University
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
